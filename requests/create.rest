@@ -1,0 +1,6 @@
+POST http://localhost:3000/newagent
+Content-Type: application/json
+
+{
+    "content": "esto es una nueva nota UwU"
+}
